@@ -1,0 +1,4 @@
+
+https://docs.metamask.io/wallet/#basic-considerations
+
+using vannilla javascript
